@@ -1,4 +1,3 @@
-# .github
 # Dev-opify
 
 Welcome to **Dev-opify** — Your trusted partner for Software as a Solution.
